@@ -1,0 +1,27 @@
+Instrucciones generales:
+
+Realizar actividad en parejas durante el laboratorio
+Se permite hablar en voz baja con su compañer@
+Se permite uso de apuntes
+Se debe entregar solo y únicamente el link al repositorio creado, nada de código
+Ambos miembros del equipo deben subir commits al git
+
+
+Parte I:
+
+Caso:
+
+Crear un programa python con un menu, con tres opciones. 1 Agregar alumnos a una lista de alumnos, 2. mostrar todos los alumnos, 3 cerrar. El programa debe pedir el nombre del alumno.
+Deben crear un repositorio público, el cual al comenzar la actividad deben enviar de inmediato como entrega a esta actividad
+Deben subir el codigo del caso al repositorio
+
+
+Parte 2:
+
+Nuevos req:
+
+Aun por definir
+ 
+Crear una rama nueva en el repositorio
+Realizar los nuevos requerimientos en la rama y subirlos
+Mezclar la rama nueva con main
